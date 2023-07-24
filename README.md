@@ -1,4 +1,4 @@
-# Strava Running Data
+# 🏃‍♂️ Strava Running Data
 
 ## Introduction
 
